@@ -16,7 +16,7 @@
     "mongoose": "^5.7.3",
     "nodemon": "^1.19.4",
     "serve-favicon": "~2.3.0",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.19",
     "cors": "^2.8.4"
   },
   "devDependencies": {
